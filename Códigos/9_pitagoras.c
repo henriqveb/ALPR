@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 #include <math.h>
 
@@ -20,6 +19,5 @@ int main(void) {
     hipotenusa = sqrt(cateto1 * cateto1 + cateto2 * cateto2);
 
     printf("\nA hipotenusa do triângulo retângulo é %.2f.", hipotenusa);
-    getch();
     return 0;
 }

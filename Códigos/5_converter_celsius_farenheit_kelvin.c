@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //5. Desenvolver um algoritmo para converter uma temperatura dada em Celsius para Farenheit e Kelvin.
@@ -23,6 +22,5 @@ int main(void) {
     k = c + 273.15;
 
     printf("%.1f °C equivalem a %.1f °F e a %.1f K.", c, f, k);
-    getch();
     return 0;
 }

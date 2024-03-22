@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //8. Receba o peso de uma pessoa, calcule e mostre dois novos pesos, se a pessoa engordar 15% e se emagrecer 20% sobre o peso digitado.
@@ -17,6 +16,5 @@ int main(void){
     peso_menor = peso - peso * 20 / 100;
 
     printf("\nSe a pessoa engordar 15%%, ela terá %.2f kg. Se ela emagrecer 20%%, ela terá %.2f kg.", peso_maior, peso_menor);
-    getch();
     return 0;
 }

@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //7. Receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre  a idade dessa pessoa e quantos anos ela será em 2050.
@@ -19,6 +18,5 @@ int main(void) {
     idade_atual = ano_atual - nascimento;
 
     printf("\nA pessoa tem %d anos atualmente e terá %d anos em 2050.", idade_atual, idade_futuro);
-    getch();
     return 0;
 }

@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //6. Receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.
@@ -18,6 +17,5 @@ int main(void) {
     novo_salario = salario + salario * percentual_aumento / 100;
 
     printf("\nO novo salário do funcionário é R$ %.2f.", novo_salario);
-    getch();
     return 0;
 }
