@@ -17,6 +17,7 @@ int main() {
     soma_quadrados = (a*a)+(b*b)+(c*c);
 
     printf("A soma dos quadrados de %d, %d e %d é: %d", a, b, c, soma_quadrados);
+    printf("Pressione ENTER para sair.");
     getchar();
     return 0;
 }
