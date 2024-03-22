@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //1. Construir um algoritmo que leia três valores numéricos inteiros (representados pelas variáveis A, B e C) e apresente como resultado final o valor da soma dos quadrados dos três valores lidos.
@@ -18,6 +17,6 @@ int main() {
     soma_quadrados = (a*a)+(b*b)+(c*c);
 
     printf("A soma dos quadrados de %d, %d e %d é: %d", a, b, c, soma_quadrados);
-    getch();
+    getchar();
     return 0;
 }
