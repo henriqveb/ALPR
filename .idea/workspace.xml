@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5895770d-57c4-49ec-9be9-7689a0603f0f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2dv2tK0kLMeiRRUzLe1tPukimn1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.1.soma_dos_quadrados.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.2.valor aleatorio.c (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.2.valor aleatorio.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Principal.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.soma_dos_quadrados.c.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/joseh/OneDrive - ljzb/IFAL/Sistemas de Informação/Algoritmos e Lógica de Programação&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\joseh\OneDrive - ljzb\IFAL\Sistemas de Informação\Algoritmos e Lógica de Programação\Códigos" />
+      <recent name="C:\Users\joseh\OneDrive - ljzb\IFAL\Sistemas de Informação\Algoritmos e Lógica de Programação\" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.Principal.c">
+    <configuration name="1.soma_dos_quadrados.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algoritmos e Lógica de Programação" TARGET_NAME="1.soma_dos_quadrados.c" CONFIG_NAME="1.soma_dos_quadrados.c">
+      <option name="sourceFile" value="Códigos\1.soma_dos_quadrados.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.valor aleatorio.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algoritmos e Lógica de Programação" TARGET_NAME="2.valor aleatorio.c" CONFIG_NAME="2.valor aleatorio.c">
+      <option name="sourceFile" value="C:\Users\joseh\OneDrive - ljzb\IFAL\Sistemas de Informação\Algoritmos e Lógica de Programação\Códigos\2.valor aleatorio.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.valor aleatorio.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algoritmos e Lógica de Programação" TARGET_NAME="2.valor aleatorio.c" CONFIG_NAME="2.valor aleatorio.c">
+      <option name="sourceFile" value="C:\Users\joseh\OneDrive - ljzb\IFAL\Sistemas de Informação\Algoritmos e Lógica de Programação\Códigos\2.valor aleatorio.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algoritmos e Lógica de Programação" TARGET_NAME="Principal.c" CONFIG_NAME="Principal.c">
+      <option name="sourceFile" value="testes\projeto\Principal.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="soma_dos_quadrados.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algoritmos e Lógica de Programação" TARGET_NAME="soma_dos_quadrados.c" CONFIG_NAME="soma_dos_quadrados.c">
+      <option name="sourceFile" value="soma_dos_quadrados.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.Principal.c" />
+        <item itemvalue="C/C++ File.1.soma_dos_quadrados.c" />
+        <item itemvalue="C/C++ File.2.valor aleatorio.c" />
+        <item itemvalue="C/C++ File.2.valor aleatorio.c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5895770d-57c4-49ec-9be9-7689a0603f0f" name="Changes" comment="" />
+      <created>1710874445770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710874445770</updated>
+      <workItem from="1710874447154" duration="1562000" />
+      <workItem from="1710900109098" duration="6877000" />
+      <workItem from="1710907962337" duration="402000" />
+      <workItem from="1710908372712" duration="6000" />
+      <workItem from="1710908388558" duration="181000" />
+      <workItem from="1711039463863" duration="659000" />
+      <workItem from="1711041966741" duration="509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
