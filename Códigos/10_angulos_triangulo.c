@@ -16,6 +16,7 @@ int main(void) {
 
     angulo3 = 180 - angulo1 - angulo2;
 
+    /*
     while (angulo3 <= 0) {
         printf("\nOs valores inseridos não formam um triângulo. Insira outros valores:\n");
         printf("Digite o valor do primeiro ângulo:\n");
@@ -24,6 +25,7 @@ int main(void) {
         scanf("%f", &angulo2);
         angulo3 = 180 - angulo1 - angulo2;
     }
+    */
 
     printf("\nO terceiro ângulo do triângulo é %.2f.", angulo3);
     return 0;
