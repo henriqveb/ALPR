@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 // 25. Dado um país A, com 5000000 de habitantes e uma taxa de natalidade de 3% ao ano, e um país B com 7000000 de habitantes e uma taxa de natalidade de 2% ao ano, escrever um algoritmo que seja capaz de calcular e iterativamente e no fim imprimir o tempo necessário para que a população do país A ultrapasse a população do país B.
@@ -20,6 +19,5 @@ int main(void) {
     printf("A população do país A ultrapassará a população do país B em %d anos.", anos);
     printf("\n\nPressione qualquer tecla para sair.");
     
-    getch();
     return 0;
 }

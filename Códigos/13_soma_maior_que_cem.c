@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //13. Efetuar a leitura de 3 valores inteiros desconhecidos representados pelas variáveis A, B e C. Somar os valores fornecidos e apresentar o resultado somente se for maior ou igual a 100.
@@ -25,6 +24,5 @@ int main(void) {
         printf("\nA soma dos números é menor que 100.");
     }
 
-    getch();
     return 0;
 }

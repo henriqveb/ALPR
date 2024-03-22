@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //21. Faça um algoritmo, para apresentar o total da soma obtida dos cem primeiros números inteiros positivos.
@@ -16,6 +15,5 @@ int main(void) {
 
     printf("A soma dos cem primeiros números inteiros positivos é %d.", soma);
 
-    getch();
     return 0;
 }

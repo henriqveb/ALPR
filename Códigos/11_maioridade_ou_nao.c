@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //11. Receba a idade de uma pessoa e mostre a mensagem de maioridade ou não.
@@ -24,6 +23,5 @@ int main(void) {
         printf("Menor de idade\n");
     }
 
-    getch();
     return 0;
 }

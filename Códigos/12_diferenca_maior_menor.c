@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //12. Efetuar a leitura de dois valores numéricos inteiros representados pelas variáveis A e B e apresentar o resultado da diferença do maior valor pelo menor valor.
@@ -22,6 +21,5 @@ int main(void) {
     }
 
     printf("\nA diferença entre o maior e o menor número é %d.", diferenca);
-    getch();
     return 0;
 }

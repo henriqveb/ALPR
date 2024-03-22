@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //16. Ler um número inteiro qualquer e multiplicá-lo por dois. Apresentar o resultado da multiplicação somente se o resultado for maior que 30 e menor que 100.
@@ -21,6 +20,5 @@ int main(void) {
         printf("\nO dobro do número digitado não está entre 30 e 100.");
     }
 
-    getch();
     return 0;
 }

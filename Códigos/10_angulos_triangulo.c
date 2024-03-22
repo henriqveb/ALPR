@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //10. Receba a medida de dois ângulos de um triângulo, calcule e mostre a medida do terceiro ângulo.
@@ -27,6 +26,5 @@ int main(void) {
     }
 
     printf("\nO terceiro ângulo do triângulo é %.2f.", angulo3);
-    getch();
     return 0;
 }

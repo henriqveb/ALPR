@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //20. Permitir ao usuário escolher entre a conversão de medida de centímetros em polegadas, de polegadas em centímetros, de quilômetros em milhas e de milhas em quilômetros. As fórmulas para conversão são as seguintes:
@@ -49,6 +48,5 @@ int main(void) {
             break;
     }
     
-    getch();
     return 0;
 }

@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //14. Colocar em MAIOR o maior de A, B e C e em MENOR o menor deles, sendo que A, B e C devem ser lidos. Imprimir os valores lidos e os determinados.
@@ -48,6 +47,5 @@ int main(void) {
     printf("\nOs números digitados foram %d, %d e %d.\n", a, b, c);
     printf("O maior número é %d e o menor número é %d.", maior, menor);
 
-    getch();
     return 0;
 }

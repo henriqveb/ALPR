@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //22. Ler valores positivos inteiros até que um valor negativo seja informado. Ao final devem ser apresentados o maior e o menor valores informados pelo usuário.
@@ -30,6 +29,5 @@ int main(void) {
     printf("\nO número negativo foi %d.", num);
     printf("\n\nPressione qualquer tecla para sair.");
 
-    getch();
     return 0;
 }

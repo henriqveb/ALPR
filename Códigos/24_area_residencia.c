@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 #include <ctype.h>
 
@@ -38,6 +37,5 @@ int main(void) {
     printf("\n\nA área total da residência é %.2f metros quadrados.", area_total);
     printf("\n\nPressione qualquer tecla para sair.");
     
-    getch();
     return 0;
 }

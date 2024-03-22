@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //18. Fazer a leitura de quatro valores numéricos inteiros representados pelas variáveis A, B, C e D. Apresentar apenas os valores que sejam divisíveis por 2 e 3.
@@ -32,6 +31,5 @@ int main(void) {
         printf("\n%d é divisível por 2 e 3.", d);
     }
 
-    getch();
     return 0;
 }

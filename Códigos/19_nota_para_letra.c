@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <locale.h>
 
 //19. Leia uma nota numérica (número real) codificada entre 0  e 10. Em seguida converta essa nota para a correspondente em conceito, segundo dados abaixo.
@@ -35,6 +34,5 @@ int main(void) {
         printf("\nE");
     }
 
-    getch();
     return 0;
 }
