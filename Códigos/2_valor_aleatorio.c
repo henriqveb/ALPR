@@ -26,6 +26,6 @@ int main() {
 
     numero = aleatorio(minimo, maximo);
 
-    printf("O número aleatório gerado foi: %d", numero);
+    printf("O número aleatório gerado foi: %d\n", numero);
     return 0;
 }
