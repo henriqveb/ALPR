@@ -17,7 +17,8 @@ int main(void) {
     }
 
     printf("A população do país A ultrapassará a população do país B em %d anos.", anos);
-    printf("\n\nPressione qualquer tecla para sair.");
-    
+    printf("\n\nPressione ENTER para sair.");
+
+    getchar();    
     return 0;
 }

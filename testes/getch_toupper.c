@@ -7,7 +7,7 @@ int main() {
     int ascii;
 
     printf("Digite um caractere:\n");
-    c = getch(); // não é necessário pressionar Enter, não exibe o caractere digitado. Não faz parte da biblioteca padrão C, funciona apenas no Windows.
+    c = getch(); // não é necessário pressionar Enter. Não faz parte da biblioteca padrão C, funciona apenas no Windows.
     ascii = c; // converte o caractere para seu valor ASCII
     letra = ascii; // converte o valor ASCII para o caractere correspondente
 

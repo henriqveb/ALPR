@@ -28,7 +28,8 @@ int main(void) {
     }
 
     printf("\n\nO somatório dos números pares entre %d e %d é %d.", inf, sup, soma);
-    printf("\n\nPressione qualquer tecla para sair.");
+    printf("\n\nPressione ENTER para sair.");
     
+    getchar();
     return 0;
 }

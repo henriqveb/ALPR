@@ -35,7 +35,8 @@ int main(void) {
     }
 
     printf("\n\nA área total da residência é %.2f metros quadrados.", area_total);
-    printf("\n\nPressione qualquer tecla para sair.");
+    printf("\n\nPressione ENTER para sair.");
     
+    getchar();
     return 0;
 }

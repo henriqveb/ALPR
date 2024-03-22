@@ -27,7 +27,8 @@ int main(void) {
 
     printf("\nO maior número digitado foi %d e o menor foi %d.", maior, menor);
     printf("\nO número negativo foi %d.", num);
-    printf("\n\nPressione qualquer tecla para sair.");
+    printf("\n\nPressione ENTER para sair.");
 
+    getchar();
     return 0;
 }
