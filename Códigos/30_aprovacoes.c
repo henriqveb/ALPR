@@ -17,7 +17,6 @@ int main(void) {
     scanf("%d", &aluno);
     char nome[aluno][100];
     float notas[aluno][5];
-    float nota;
     int qtdMatApv[aluno];
     int aprovados_3 = 0;
     int aprovados_1_4 = 0;
@@ -51,7 +50,6 @@ int main(void) {
         }
     }
     
-    int j = 0;
     for (int i = 0; i < aluno; i++) {
         if (qtdMatApv[i] == 5) {
             printf("\nO aluno %s foi aprovado em todas as matérias.", nome[i]);
@@ -59,11 +57,11 @@ int main(void) {
 
         if (notas[i][0] >= 7 && notas[i][3] >= 7) {
             printf("\nO aluno %s foi aprovado nas matérias 1 e 4.", nome[i]);
-            j++;
+            aprovados_1_4++;
         }
     }
 
-    printf("\n%d alunos foram aprovado nas matérias 1 e 4.", j);
+    printf("\n%d alunos foram aprovado nas matérias 1 e 4.", aprovados_1_4);
     printf ("\nA porcentagem dos aprovados na matéria 3 é de %.1f%%.", (aprovados_3 * 100.0) / aluno);
 
     printf("\n\nPressione ENTER para sair.");
