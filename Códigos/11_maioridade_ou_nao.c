@@ -12,10 +12,12 @@ int main(void) {
     printf("Digite a idade: ");
     scanf("%d", &idade);
 
+    /*
     while (idade < 0) {
         printf("Idade inválida. Digite novamente: ");
         scanf("%d", &idade);
     }
+    */
 
     if (idade >= 18) {
         printf("Maior de idade\n");

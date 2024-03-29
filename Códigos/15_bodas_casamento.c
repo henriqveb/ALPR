@@ -12,18 +12,22 @@ int main(void) {
     printf("Digite o ano de casamento:\n");
     scanf("%d", &ano_casamento);
 
+    /*
     while (ano_casamento < 0) {
         printf("Ano inválido. Digite novamente: ");
         scanf("%d", &ano_casamento);
     }
+    */
 
     printf("Digite o ano atual:\n");
     scanf("%d", &ano_atual);
 
+    /*
     while (ano_atual < 0) {
         printf("Ano inválido. Digite novamente: ");
         scanf("%d", &ano_atual);
     }
+    */
 
     anos_casamento = ano_atual - ano_casamento;
 
